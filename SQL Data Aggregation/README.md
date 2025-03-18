@@ -5,7 +5,7 @@ The hands-on project on Performing Data Aggregation using SQL Aggregate Function
 
 ## Task 1: Introduction
 
-Retrieve all data from the employees, departments, employees and salaries tables
+1.1 Retrieve all data from the employees, departments, employees and salaries tables
 
 ## Task 2: COUNT()
 2.1 Retrieve data from the employees table using the COUNT function
@@ -39,7 +39,7 @@ Retrieve all data from the employees, departments, employees and salaries tables
 
 7.2 Retrieve the average salary from the salaries using a WHERE clause
 
-## Task 8: ROUND 
+## Task 8: ROUND() 
 8.1 Round the results from task 6 up to nearest whole number and decimal places
 
 8.2 Perform arithmetic operations, for example, retrieve the range of salary from the salaries table
