@@ -9,7 +9,7 @@
 
 #############################
 -- Task One: Introduction
--- In this task, you will retrieve data from tables in the employees database
+-- In this task, retrieve data from tables in the employees database
 #############################
 
 -- 1.1: Retrieve all records in the employees table
@@ -30,7 +30,7 @@ FROM salaries;
 
 #############################
 -- Task Two: COUNT()
--- In this task, you will learn how to retrieve data from the employees
+-- In this task, retrieve data from the employees
 -- database using the COUNT() function
 #############################
 
@@ -80,7 +80,7 @@ FROM salaries;
 	
 #############################
 -- Task Three: SELECT DISTINCT & GROUP BY
--- In this task, you will understand the difference between SELECT DISTINCT
+-- In this task, understand the difference between SELECT DISTINCT
 -- and GROUP BY to retrieve data from the employees database
 #############################
 
@@ -149,7 +149,7 @@ ORDER BY salary ASC;
 
 #############################
 -- Task Four: HAVING
--- In this task, you will learn how to set conditions on the output of 
+-- In this task, set conditions on the output of 
 -- aggregate functions using the HAVING clause
 #############################
 
@@ -224,7 +224,7 @@ ORDER BY emp_no;
 
 #############################
 -- Task Five: SUM
--- In this task, you will learn how to retrieve data from the employees
+-- In this task, retrieve data from the employees
 -- database using the SUM() function
 #############################
 
@@ -251,7 +251,7 @@ WHERE from_date > '1997-01-01';
 
 #############################
 -- Task Six: MIN() and MAX()
--- In this task, you will learn how to retrieve data from the employees
+-- In this task, retrieve data from the employees
 -- database using the MIN() and MAX() function
 #############################
 
@@ -283,7 +283,7 @@ FROM employees;
 
 #############################
 -- Task Seven: AVG()
--- In this task, you will learn how to retrieve data from the employees
+-- In this task, retrieve data from the employees
 -- database using the AVG() function
 #############################
 
@@ -304,7 +304,7 @@ WHERE from_date > '1997-01-01';
 
 #############################
 -- Task Eight: ROUND()
--- In this task, you will learn how to tidy up the result set from an 
+-- In this task, tidy up the result set from an 
 -- aggregate function using ROUND(). In addition, you will perform some arithmetic
 -- operations by combining different aggregate function
 #############################
